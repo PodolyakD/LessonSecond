@@ -1,0 +1,31 @@
+.box {
+  background-color: yellow;
+  font-size: 16px;
+  padding: 2em;
+}
+
+.btn {
+  padding: 1em;
+  border-radius: 1em;
+  background-color: #ccc;
+  border: 1px solid #000;
+  text-transform: uppercase;
+}
+
+.btn-xs {
+  font-size: 14px;
+}
+
+.btn-lg {
+  font-size: 20px;
+}
+
+.body {
+  font-size: 18px;
+}
+
+.text {
+  font-size: 1.2em;
+  padding: 1.2em;
+  background-color: #ccc;
+}
